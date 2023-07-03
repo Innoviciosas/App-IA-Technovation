@@ -1,0 +1,22 @@
+<annotation>
+    <folder>Barricadas e inicidentes</folder>
+    <filename>Inicidente Subway "Macul".jpeg</filename>
+    <size>
+        <width>1024</width>
+        <height>576</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Incident Bus Station</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>311.696289</xmin>
+            <ymin>35.939243</ymin>
+            <xmax>949.073242</xmax>
+            <ymax>514.107666</ymax>
+        </bndbox>
+    </object>
+</annotation>

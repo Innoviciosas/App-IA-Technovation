@@ -1,0 +1,22 @@
+<annotation>
+    <folder>Barricadas e inicidentes</folder>
+    <filename>Barricada Subway Plaza Egaña.jpeg</filename>
+    <size>
+        <width>713</width>
+        <height>395</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Barricade </name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>66.907433</xmin>
+            <ymin>54.863285</ymin>
+            <xmax>617.134644</xmax>
+            <ymax>314.205048</ymax>
+        </bndbox>
+    </object>
+</annotation>

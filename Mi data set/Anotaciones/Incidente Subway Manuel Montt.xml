@@ -1,0 +1,22 @@
+<annotation>
+    <folder>Barricadas e inicidentes</folder>
+    <filename>Incidente Subway Manuel Montt.jpeg</filename>
+    <size>
+        <width>291</width>
+        <height>173</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Barricade</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2.993127</xmin>
+            <ymin>37.786129</ymin>
+            <xmax>179.384888</xmax>
+            <ymax>157.092499</ymax>
+        </bndbox>
+    </object>
+</annotation>

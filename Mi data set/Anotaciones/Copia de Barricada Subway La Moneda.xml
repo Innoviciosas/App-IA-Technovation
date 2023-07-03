@@ -1,0 +1,22 @@
+<annotation>
+    <folder>Barricadas e inicidentes</folder>
+    <filename>Copia de Barricada Subway La Moneda.jpeg</filename>
+    <size>
+        <width>960</width>
+        <height>540</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Barricade </name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>96.900002</xmin>
+            <ymin>333.383331</ymin>
+            <xmax>867.096863</xmax>
+            <ymax>493.087036</ymax>
+        </bndbox>
+    </object>
+</annotation>

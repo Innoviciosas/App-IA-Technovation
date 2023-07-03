@@ -1,0 +1,35 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2709
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 /Users/Pollita/Desktop/Mi data set/Barricadas e incidentes/Barricada Bus Station 2.jpg /Users/Pollita/Desktop/Mi data set/Anotaciones/Barricada Bus Station 2.xml\
+/Users/Pollita/Desktop/Mi data set/Barricadas e incidentes/Barricada Bus Station.jpg /Users/Pollita/Desktop/Mi data set/Anotaciones/Barricada Bus Station.xml\
+/Users/Pollita/Desktop/Mi data set/Barricadas e incidentes/Barricada Subte Quillayes.jpg /Users/Pollita/Desktop/Mi data set/Anotaciones/Barricada Subte Quillayes.xml\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 /Users/Pollita/Desktop/Mi data set/Barricadas e incidentes/Barricada Subway Baquedano.jpg /Users/Pollita/Desktop/Mi data set/Anotaciones/Barricada Subway Baquedano.xml\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 /Users/Pollita/Desktop/Mi data set/Barricadas e incidentes/Barricada Subway La Moneda.jpg /Users/Pollita/Desktop/Mi data set/Anotaciones/Barricada Subway La Moneda.xml\
+/Users/Pollita/Desktop/Mi data set/Barricadas e incidentes/Barricada Subway Plaza Ega\'f1a.jpg /Users/Pollita/Desktop/Mi data set/Anotaciones/Barricada Subway Plaza Ega\'f1a.xml\
+/Users/Pollita/Desktop/Mi data set/Barricadas e incidentes/Barricada Transantiago.jpg /Users/Pollita/Desktop/Mi data set/Anotaciones/Barricada Transantiago.xml\
+/Users/Pollita/Desktop/Mi data set/Barricadas e incidentes/Copia de Barricada Subway La Moneda.jpg /Users/Pollita/Desktop/Mi data set/Anotaciones/Copia de Barricada Subway La Moneda.xml\
+/Users/Pollita/Desktop/Mi data set/Barricadas e incidentes/Incidente "Bus".jpg /Users/Pollita/Desktop/Mi data set/Anotaciones/Incidente "Bus".xml\
+/Users/Pollita/Desktop/Mi data set/Barricadas e incidentes/Incidente "bus2".jpg /Users/Pollita/Desktop/Mi data set/Anotaciones/Incidente "bus2".xml\
+/Users/Pollita/Desktop/Mi data set/Barricadas e incidentes/Incidente Bus Station 6.jpg /Users/Pollita/Desktop/Mi data set/Anotaciones/Incidente Bus Station 6.xml\
+/Users/Pollita/Desktop/Mi data set/Barricadas e incidentes/Incidente Bus Station 7.jpg /Users/Pollita/Desktop/Mi data set/Anotaciones/Incidente Bus Station 7.xml\
+/Users/Pollita/Desktop/Mi data set/Barricadas e incidentes/Incidente Bus Station1.jpg /Users/Pollita/Desktop/Mi data set/Anotaciones/Incidente Bus Station1.xml\
+/Users/Pollita/Desktop/Mi data set/Barricadas e incidentes/Incidente Metro.jpg /Users/Pollita/Desktop/Mi data set/Anotaciones/Incidente Metro.xml\
+/Users/Pollita/Desktop/Mi data set/Barricadas e incidentes/Incidente Subway Baquedano1.jpg /Users/Pollita/Desktop/Mi data set/Anotaciones/Incidente Subway Baquedano1.xml\
+/Users/Pollita/Desktop/Mi data set/Barricadas e incidentes/Incidente Subway Manuel Montt.jpg /Users/Pollita/Desktop/Mi data set/Anotaciones/Incidente Subway Manuel Montt.xml\
+/Users/Pollita/Desktop/Mi data set/Barricadas e incidentes/Incidente Subway.jpg /Users/Pollita/Desktop/Mi data set/Anotaciones/Incidente Subway.xml\
+/Users/Pollita/Desktop/Mi data set/Barricadas e incidentes/Inicidente "bus1\'94.jpg /Users/Pollita/Desktop/Mi data set/Anotaciones/Inicidente "bus1".xml\
+/Users/Pollita/Desktop/Mi data set/Barricadas e incidentes/Inicidente "Bus3".jpg /Users/Pollita/Desktop/Mi data set/Anotaciones/Inicidente "Bus3".xml\
+/Users/Pollita/Desktop/Mi data set/Barricadas e incidentes/Inicidente Bus Station 3.jpg /Users/Pollita/Desktop/Mi data set/Anotaciones/Inicidente Bus Station 3.xml\
+/Users/Pollita/Desktop/Mi data set/Barricadas e incidentes/Inicidente Bus Station 4.jpg /Users/Pollita/Desktop/Mi data set/Anotaciones/Inicidente Bus Station 4.xml\
+/Users/Pollita/Desktop/Mi data set/Barricadas e incidentes/Inicidente Bus Station 5.jpg /Users/Pollita/Desktop/Mi data set/Anotaciones/Inicidente Bus Station 5.xml\
+/Users/Pollita/Desktop/Mi data set/Barricadas e incidentes/Inicidente Bus Station 6.jpg /Users/Pollita/Desktop/Mi data set/Anotaciones/Inicidente Bus Station 6.xml\
+/Users/Pollita/Desktop/Mi data set/Barricadas e incidentes/Inicidente Subway "Macul".jpg /Users/Pollita/Desktop/Mi data set/Anotaciones/Inicidente Subway "Macul".xml\
+\
+}

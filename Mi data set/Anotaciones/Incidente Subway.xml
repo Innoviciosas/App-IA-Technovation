@@ -1,0 +1,22 @@
+<annotation>
+    <folder>Barricadas e inicidentes</folder>
+    <filename>Incidente Subway.jpeg</filename>
+    <size>
+        <width>900</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Incident Subway</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>269.701111</xmin>
+            <ymin>27.955019</ymin>
+            <xmax>547.392212</xmax>
+            <ymax>461.231659</ymax>
+        </bndbox>
+    </object>
+</annotation>

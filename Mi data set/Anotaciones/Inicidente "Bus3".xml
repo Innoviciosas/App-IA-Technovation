@@ -1,0 +1,22 @@
+<annotation>
+    <folder>Barricadas e inicidentes</folder>
+    <filename>Inicidente "Bus3".jpeg</filename>
+    <size>
+        <width>1200</width>
+        <height>675</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Incident Bus Station</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>164.863342</xmin>
+            <ymin>85.874046</ymin>
+            <xmax>1059.117432</xmax>
+            <ymax>577.145203</ymax>
+        </bndbox>
+    </object>
+</annotation>

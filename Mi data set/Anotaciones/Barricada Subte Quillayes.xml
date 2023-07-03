@@ -1,0 +1,22 @@
+<annotation>
+    <folder>Barricadas e inicidentes</folder>
+    <filename>Barricada Subte Quillayes.jpeg</filename>
+    <size>
+        <width>1130</width>
+        <height>636</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Barricade </name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>222.803528</xmin>
+            <ymin>123.806587</ymin>
+            <xmax>1029.089355</xmax>
+            <ymax>528.169800</ymax>
+        </bndbox>
+    </object>
+</annotation>

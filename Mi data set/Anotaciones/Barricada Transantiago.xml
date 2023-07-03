@@ -1,0 +1,22 @@
+<annotation>
+    <folder>Barricadas e inicidentes</folder>
+    <filename>Barricada Transantiago.webp</filename>
+    <size>
+        <width>820</width>
+        <height>547</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Incident Bus Station</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>129.842682</xmin>
+            <ymin>88.839134</ymin>
+            <xmax>776.053589</xmax>
+            <ymax>441.193787</ymax>
+        </bndbox>
+    </object>
+</annotation>

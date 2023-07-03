@@ -1,0 +1,22 @@
+<annotation>
+    <folder>Barricadas e inicidentes</folder>
+    <filename>Barricada Subway Baquedano.jpeg</filename>
+    <size>
+        <width>2048</width>
+        <height>1366</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Barricade </name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>810.604492</xmin>
+            <ymin>142.895966</ymin>
+            <xmax>1963.041504</xmax>
+            <ymax>1194.125977</ymax>
+        </bndbox>
+    </object>
+</annotation>
