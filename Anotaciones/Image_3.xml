@@ -1,0 +1,22 @@
+<annotation>
+    <folder>Barricadas e inicidentes</folder>
+    <filename>Image3.jpg</filename>
+    <size>
+        <width>1130</width>
+        <height>636</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Barricade </name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>285.747772</xmin>
+            <ymin>51.919811</ymin>
+            <xmax>942.166260</xmax>
+            <ymax>491.227966</ymax>
+        </bndbox>
+    </object>
+</annotation>
