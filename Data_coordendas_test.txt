@@ -26,4 +26,4 @@ App-IA-Technovation/Barricadas e inicidentes/image-42.jpg 0,0,730,410,3
 App-IA-Technovation/Barricadas e inicidentes/image-44.jpg 0,0,390,280,3
 App-IA-Technovation/Barricadas e inicidentes/image-45.jpg 0,0,860,360,3
 App-IA-Technovation/Barricadas e inicidentes/image-56.jpg 0,0,150,146,3
-App-IA-Technovation/Barricadas e inicidentes/image-59.jpg 0,0,390,280,3 
+App-IA-Technovation/Barricadas e inicidentes/image-59.jpg 0,0,390,280,3
