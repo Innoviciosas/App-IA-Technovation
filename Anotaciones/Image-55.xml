@@ -1,0 +1,34 @@
+<annotation>
+    <folder>Barricadas e inicidentes</folder>
+    <filename>Image_55.jpg</filename>
+    <size>
+        <width>618</width>
+        <height>460</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Asalto</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <polygon>
+            <x1>314.749668</x1>
+            <y1>229.396337</y1>
+            <x2>377.825675</x2>
+            <y2>243.498273</y2>
+            <x3>377.000519</x3>
+            <y3>254.012204</y3>
+            <x4>314.083620</x4>
+            <y4>241.259480</y4>
+            <x5>314.061472</x5>
+            <y5>228.621985</y5>
+        </polygon>
+        <bndbox>
+            <xmin>314.061462</xmin>
+            <ymin>228.621979</ymin>
+            <xmax>377.825684</xmax>
+            <ymax>254.012207</ymax>
+        </bndbox>
+    </object>
+</annotation>
